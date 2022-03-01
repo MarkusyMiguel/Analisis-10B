@@ -4,13 +4,13 @@ Fecha 21/02/2022
 Realizado por Markus y Miguel
 */
 var nombre//string
-console.log (nombre);
+console.log(nombre);
 
 var grado //int
-consola.log (grado);
+consola.log(grado);
 
 var edad //int
-console.log (edad);
+console.log(edad);
 
 nombre = "Markus"
 grado = "10b"
