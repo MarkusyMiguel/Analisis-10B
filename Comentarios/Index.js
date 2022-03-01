@@ -38,7 +38,4 @@ var edadestudiante=edad
 var gradoEstudiante=prompt("Ingrese Un Grado");
 console.log("El grado es:" + gradoEstudiante);
 /* Constantes: 
-Son valores que una vez inicializados no se pueden cambiar lo que almacenan. Se crean con la palabra reservada Const, El nombre de las constantes se escriben todo en mayuscula para diferenciarlo de la variables Enter 
-*/ 
-const PI=3.1416;
-
+Son valores que una vez inicializados no se pueden cambiar lo que almacenan. Se crean con la palabra reservada Const, El nombre de las constantes se escriben todo en mayuscula para diferenciarlo de la variables Enter */
