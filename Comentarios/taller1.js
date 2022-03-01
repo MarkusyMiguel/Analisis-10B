@@ -3,18 +3,9 @@
 Fecha 21/02/2022
 Realizado por Markus y Miguel
 */
-var nombre//string
-console.log(nombre);
-
-var grado //int
-consola.log(grado);
-
-var edad //int
-console.log(edad);
-
-nombre = "Markus"
-grado = "10b"
-
+var nombre = " Markus" 
+var grado = "10b"
+var edad;
 var edad = prompt ("ingrese su edad")
-console.log ("la edad es " +edad);
-console.log ("El estudiante " +nombre + "del grado" + grado + "tiene"+ edad );
+console.log ("la edad es " + edad);
+console.log ("El estudiante " + nombre + "del grado" + grado + "tiene" + edad );
