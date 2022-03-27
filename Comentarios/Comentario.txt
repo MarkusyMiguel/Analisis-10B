@@ -1,0 +1,10 @@
+Miguel y Markus
+
+Taller 1: 4.6
+Taller 2: Nota 4.2
+    * Operacion area del rectangulo, incorrecta
+    * Area del circulo, incorrecto. No hallaron volumen de la esfera
+
+
+Taller 3: Nota 4,5 en el primer taller. Taller 2 no sube
+    * Punto 6, las operaciones van en otro orden
