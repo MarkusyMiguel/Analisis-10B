@@ -51,10 +51,11 @@ var hora_clase;
 var hora_adicional
 var total_pagar;
 
-hora_clase = prompt (" Digite el total de las horas que duro la clase " );
+hora_clase = prompt (" Digite la hora " );
+hora_clase = 40000;
 
 total_pagar = hora_clase * 40000 
-hora_adicional = total_pagar + 25000
+
 
 console.log ("El total a pagar de la clase es $ " + total_pagar + "mas el coso adicional ese es" + hora_adicional );  
 
