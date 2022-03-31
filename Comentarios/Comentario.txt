@@ -8,3 +8,10 @@ Taller 2: Nota 4.2
 
 Taller 3: Nota 4,5 en el primer taller. Taller 2 no sube
     * Punto 6, las operaciones van en otro orden
+
+
+arreglos (observaciones generales): Nota 
+    * Falta código. consultar posicion
+    * linea 27 incompleta
+    * Falta código eliminar elementos del arreglo
+    * Ir donde el docente al leer este mensaje.
