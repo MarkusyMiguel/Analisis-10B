@@ -24,7 +24,7 @@ console.log(notaEst[1]);
 miPrimerArreglo[1]=18;
 console.log (miPrimerArreglo);
 notaEst[0][1]= 4.8;
-console.log(notaEst[0])
+console.log(notaEst[0]);
 
 //agregar elemento al arreglo 
 miPrimerArreglo.push("10b");
