@@ -161,4 +161,28 @@ console.log("Para mañana " +polideportivo);
 x=25;
 y=5;
 
-if()
+if(y==0)
+{
+  console.log("digito el cero como divisor")
+}
+//11
+
+var dia;
+var plato;
+ 
+if(dia == "lunes" ){
+    plato="arroz con pollo";
+}else if(dia == "martes"){
+    plato="chuleta de cerdo";
+}else if(dia == "miercoles"){
+    plato="frijoles";
+}else if(dia== "jueves"){
+    plato="sancocho de pecesito xd";
+}else if(dia=="viernes"){
+    plato="bandeja paisa";
+}else if(dia=="sabado"){  
+    plato="ajiaco(sopa rola xd)";
+}else(dia="domingo")
+    plato="sancocho de gallina"
+
+console.log("Para mañana " +plato)
