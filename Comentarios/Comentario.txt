@@ -20,3 +20,8 @@ arreglos (observaciones generales): Nota
 ************************************ segundo periodo
 
 Enlace examen: https://acortar.link/wzqjho
+
+
+Examen: Nota 1.9
+    * linea 28, falta el = en <=15
+    * No hay solucion de los puntos 4, 5 y 6
