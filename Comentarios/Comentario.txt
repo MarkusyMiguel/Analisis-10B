@@ -25,3 +25,17 @@ Enlace examen: https://acortar.link/wzqjho
 Examen: Nota 1.9
     * linea 28, falta el = en <=15
     * No hay solucion de los puntos 4, 5 y 6
+
+Taller condicionales: Nota 3.6
+    * linea 16, debía ser mayor a 18 para que le permitan entrar
+    * linea 28, falta el signo =
+    * linea 34, falta una condicion
+    * linea 37, condicion incompleta
+    * linea 44, <
+    * linea 46, debe tomar el 50 y el 80 (=)
+    * linea 70, incorrecta
+    * linea 84, incorrecta (129?)
+    * punto 9, para viernes, sabado y domingo va a imprimir que sí hay polideportivo
+    * punto 10, y sino (else)
+    * linea 185, falta un =
+    * Punto 12, no resuelto
