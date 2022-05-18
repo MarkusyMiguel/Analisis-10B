@@ -19,7 +19,7 @@ if (valor == 6 && valor <= 10){
 
 //3
 
-var numero = 20;
+var numero;
  
 if (numero==="2"){
    console.log('El número es igual que "2" en valor y tipo');
@@ -27,11 +27,9 @@ if (numero==="2"){
     console.log('El número es igual a "3" en tipo y valor');
 }else if(numero>"5" && numero<"15"){
     console.log("El número es mayor que 5 y menor igual que 15");
-}else if(numero>15){
+}else if(numero>"15"){
     console.log("El número es mayor que 15");
 }
-
-//4
 
 //Respuesta 3.A
 numero= "2"
@@ -41,3 +39,20 @@ numero= "2"
     numero= "10"
 //Respuesta 3.D
     numero = "20"
+
+//4
+
+var numerote1;
+var numerote2;
+var respuesta
+var sombolito;
+
+
+
+if(numerote1+numerote2)
+console.log("la suma de los numeros es"+respuesta)
+
+
+
+
+
