@@ -181,7 +181,7 @@ if(dia == "lunes" ){
 }else if(dia=="viernes"){
     plato="bandeja paisa";
 }else if(dia=="sabado"){  
-    plato="ajiaco(sopa rola xd)";
+    plato="ajiaco(soppvcva rola xd)";
 }else(dia="domingo")
     plato="sancocho de gallina"
 
