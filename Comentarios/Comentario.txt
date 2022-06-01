@@ -39,3 +39,12 @@ Taller condicionales: Nota 3.6
     * punto 10, y sino (else)
     * linea 185, falta un =
     * Punto 12, no resuelto
+
+taller while: Nota 3.8
+    * punto 4, el limite lo pone el usuario
+    * linea 41, el numero es par
+    * punto 6, la cantidad de estudiantes la da el usuario
+    * punto 7, no tiene solución. Qué color debe ingresar? No cuenta los intentos
+    * linea 72, no acumula. No obtiene Bonus
+
+examen while: Nota 5 Andres, 4 markus y miguel (sustentación)

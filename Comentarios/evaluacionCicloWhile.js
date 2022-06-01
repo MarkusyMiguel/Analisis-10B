@@ -88,8 +88,3 @@ if (totalnotas < 3.5){
 } else console.log ("debe abrirse el curso de verano")
 
 console.log ("La cantiadad de estudiantes que ganaron fueron " + Ganaron + "y los reprobados fueron" +perdieron)
-
- 
-
-
-
