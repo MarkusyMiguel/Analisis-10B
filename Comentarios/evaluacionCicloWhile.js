@@ -46,8 +46,8 @@ while(acumulado<compras){
     sumatoria += precio
     acumulado += 1
 }if(acumulado>= 25){
-     sumatroria=precio*0.8
-     console.log("el precio total con el descuneto es es de "+sumatoria)
+     sumatoria=precio*0.8
+     console.log("el precio total con el descuento es de "+sumatoria)
 }
 else if(acumulado>=15){
 sumatoria=precio*0.85
@@ -58,9 +58,9 @@ else if(acumulado>=8){
     console.log("el precio total con el descuento ")
 }
 
-comsole.log("punto 5")
+console.log("punto 5")
 
-var acumulacion=0
+var acumulacion=0;
 var nota = prompt("Cuantas notas queires digitar")
 var notasguardadas = 0;
 var Ganaron = 0;
@@ -74,20 +74,20 @@ while(acumulacion<nota){
         console.log ("perdiste el año" + acumulacion)
         perdieron ++
 
-    }else if(pregunta<=3.5){
+    }else if(pregunta>=3.5){
         console.log ("no perdiste el año" + acumulacion)
-        Ganaron++
+        Ganaron ++
     }
 
 }
 
 var totalnotas = notasguardadas/nota
 
-if (totalnotas < 3.5){
+if (totalnotas > 3.5){
     console.log ("la cantidad de estudiantes no es suficiente para curso de verano")
 } else console.log ("debe abrirse el curso de verano")
 
-console.log ("La cantiadad de estudiantes que ganaron fueron " + Ganaron + "y los reprobados fueron" +perdieron)
+console.log ("La cantiadad de estudiantes que ganaron fueron " + Ganaron + " y los reprobados fueron" + perdieron)
 
  
 
