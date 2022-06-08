@@ -87,13 +87,13 @@ if (totalnotas > 3.5){
     console.log ("la cantidad de estudiantes no es suficiente para curso de verano")
 } else console.log ("debe abrirse el curso de verano")
 
-<<<<<<< HEAD
+ HEAD
 console.log ("La cantiadad de estudiantes que ganaron fueron " + Ganaron + " y los reprobados fueron" + perdieron)
 
  
 
 
 
-=======
+
 console.log ("La cantiadad de estudiantes que ganaron fueron " + Ganaron + "y los reprobados fueron" +perdieron)
->>>>>>> e6452c61b07db5fbc5d5231d74b3a3ecf456394c
+ e6452c61b07db5fbc5d5231d74b3a3ecf456394c
