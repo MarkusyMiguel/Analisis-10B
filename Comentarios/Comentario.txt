@@ -48,3 +48,6 @@ taller while: Nota 3.8
     * linea 72, no acumula. No obtiene Bonus
 
 examen while: Nota 5 Andres, 4 markus y miguel (sustentación)
+
+ciclo for: nota 4
+    * cuarto punto, no funciona 
