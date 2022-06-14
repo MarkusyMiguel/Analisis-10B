@@ -29,13 +29,37 @@ console.log(multiplo+ "x" + i +"="+ multiplo*i);
 
 console.log("punto 4")
 
-var numayor=arreglonumeros[0]  
-for(var i=1; i<10; i++){ 
-    nombre=prompt("Ingrese el nombre número "+i)
-    console.log(i)
-    if(arreglo[1] > numayor){
-        mayor = arreglo[i]
+var arreglonumeros=[]  
+var nombre
+var mayorcito
+
+for(var i=1; i<10; i++){
+    nombre=prompt("Ingrese el número "+1)
+    arreglonumeros.push(nombre) 
+}
+mayorcito=arreglonumeros[0]
+for(var i=0; i<10; i++){
+
+    if(arreglonumeros[i]>mayorcito){
+    mayorcito=arreglonumeros[i]
     }
 }
+
+console.log("punto 5")
+
+var arreglaso=[]
+var producto
+
+for(var i=1; i<=5; i++){
+    producto=prompt("ponga los productos que va a comparar XD ")
+    arreglaso.push(producto)
+}
+arreglosxd=[]
+for(var i=0; i<arreglaso.length; i++){
+    var valorsito=parseInt(prompt("ingresa el precio de "+arreglaso[i]))
+    arreglosxd.push(valorsito)
+}
+
+
 
 
