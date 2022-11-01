@@ -51,3 +51,10 @@ examen while: Nota 5 Andres, 4 markus y miguel (sustentación)
 
 ciclo for: nota 4
     * cuarto punto, no funciona 
+
+
+cuarto periodo
+
+taller 1:
+    nota:5
+        *
