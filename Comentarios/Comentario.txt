@@ -58,3 +58,11 @@ cuarto periodo
 taller 1:
     nota:5
         *
+
+taller 2:
+    nota: 3.8
+        * Falta la estructura básica de todo documento HTML <html><head><boby>
+        * no hay indentacion
+        * hay etiquetas sueltas o fuera de contenedores. Esto representa un dificultad mayor al momento de dar estilos css
+        * lista de la linea 12, debe tener un <li> para cada item de la lista
+        * Demasiados <br> en la página, recuerede que son últiles solo en saltos de línea para párrafos; o por lo menos no abusar de su uso
